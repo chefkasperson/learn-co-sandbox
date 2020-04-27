@@ -1,0 +1,22 @@
+NDS to Insight Strategy
+Understand the NDS
+"Pretty-Print" NDS with pp
+Home-Grown Pretty-Print NDS
+Use [] to verify your understanding from Step 1
+Print values to verify your understanding
+Leave code comments and documentation for yourself
+Wrap uses of [] from Step 2 into new methods
+Create simple methods with meaningful names ("First-Order Methods")
+Ensure "First-Order Methods" use arguments to create flexibility
+See-saw between bottom-up and top-down method writing
+Write a method that provides an insight e.g. oldest_student
+Evaluate your First Order Methods
+Can you use your First-Order Methods to build the insight method's implementation?
+YES: Great! Your method is done!
+NO: Build a new method that combines other methods to get closer to what the insight method needs. Repeat step 4
+Insight method provides an insight! We're done!
+We'll explain all these terms in the strategy in the coming lessons.
+
+Learning Strategy: Read over the strategy and see if you can formulate questions you expect us to answer example. Cognitive research suggests that you learn more when you have an overview that you don't fully understand that you expect us to fill in!
+
+We recommend printing this list out and keep it handy as you complete labs that require you to transform NDS' into insights.
